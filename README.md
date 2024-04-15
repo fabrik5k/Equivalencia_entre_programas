@@ -28,6 +28,12 @@ Implementação: Pode-se implementar um decorador ou uma interface que intercept
 
 # 4. Comparação e Análise
 
-Após a execução de testes usando a máquina de traços, os logs de execução são comparados para assegurar que todos os programas comportem-se de maneira equivalente em termos de lógica de processamento e saída de resultados, apesar das diferenças arquiteturais.
+Após a execução de testes usando a máquina de traços, temos as seguintes saídas de execuções de cada programa
+
+Programa Monolítico: ABCDEFHHHHHHHHHHJKFKNOFPPPPPPPQPPPOKFLKNOFPQPPPPPPPPPOKFLLKNOFPPQPPPPPPPQPOKFLLLKNOFPPPQPPPPPPPOKFLLLLKNOFPPPPQPPPPPPOKFLLLLLKNOFPPPPPQPPPPPOKFLLLLLLKNOFPPPPPPQPPPPOKFLLLLLLLKNOFPPPPPPPPQPPOKFLLLLLLLLKNOFPPPPPPPPPPQOS
+
+Programa Iterativo:  ABCDEFHHHHHHHHHHJKFKNOFPPPPPPPQPPPOKFLKNOFPQPPPPPPPPPOKFLLKNOFPPQPPPPPPPQPOKFLLLKNOFPPPQPPPPPPPOKFLLLLKNOFPPPPQPPPPPPOKFLLLLLKNOFPPPPPQPPPPPOKFLLLLLLKNOFPPPPPPQPPPPOKFLLLLLLLKNOFPPPPPPPPQPPOKFLLLLLLLLKNOFPPPPPPPPPPQOS
+
+programa Recursivo:  
 
 Este projeto não apenas permite a implementação do jogo de forca em diferentes estilos de programação, mas também fornece uma ferramenta robusta para análise e garantia de qualidade do código através da "máquina de traços".
