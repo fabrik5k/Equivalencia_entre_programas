@@ -7,7 +7,7 @@ O jogo de forca é um jogo de adivinhação de palavras onde o jogador tenta des
 # 2. Implementação dos Programas
 # 2.1. Programa Monolítico
 
-Estrutura: Este programa é desenvolvido como um único bloco de código, onde todas as funcionalidades estão integradas em um único módulo. Não há separação entre a lógica de input, processamento de adivinhações e a interface visual.
+Estrutura: Este programa é desenvolvido como um único bloco de código, onde todas as funcionalidades estão integradas em um único módulo. Não há separação entre a lógica de input, processamento de adivinhações e a interface visual. O controle do fluxo do jogo é controlado através de condicionais e o uso do comando goto (Por isso a linguagem escolhida foi C#)
 Fluxo de Execução: O jogo inicia e termina dentro de um único loop ou sequência de comandos que processa entradas, atualiza o estado do jogo e renderiza a interface.
 
 # 2.2. Programa Iterativo
