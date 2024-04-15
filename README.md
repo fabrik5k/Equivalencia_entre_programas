@@ -3,7 +3,7 @@ Esse é um projeto da disciplina Teoria da computação do Cesupa. O projeto tem
 
 # 1. Descrição Geral do Jogo de Forca
 
-O jogo de forca é um jogo de adivinhação de palavras onde o jogador tenta descobrir uma palavra oculta adivinhando letras. A cada letra errada, uma parte de um desenho simplificado de uma forca com um enforcado é adicionado. O objetivo é adivinhar a palavra antes que o desenho seja completado.
+O jogo de forca é um jogo de adivinhação de palavras onde o jogador tenta descobrir uma palavra oculta adivinhando letras. A cada letra errada, uma parte de um desenho simplificado de uma forca com um enforcado é adicionado. O objetivo é adivinhar a palavra antes que o desenho seja completado, no caso deste programa, o usuário tem 6 tentaivas, mas nao foi implementado o desenho do boneco.
 # 2. Implementação dos Programas
 # 2.1. Programa Monolítico
 
